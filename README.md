@@ -54,12 +54,6 @@
   <a href="https://github.com/gautamrajoriya"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gautamrajoriya&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamrajoriya&layout=compact" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamrajoriya" />
-</p>
 
 ## ✍️ Random Dev Quote
 <p align="center">
